@@ -22,10 +22,5 @@ Run the following command to install the required Python library:
 
 ```sh
 pip install cryptography
-📁 Secure-File-Transfer
-│── 🔑 key.key                # Encryption key (DO NOT SHARE)
-│── 📄 filename.encrypted     # Encrypted file
-│── 📄 filename.decrypted     # Decrypted file
-│── 📝 README.md              # Project documentation
-│── 🐍 10.file_transfer.py    # Python script
+
 
